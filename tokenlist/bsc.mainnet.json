@@ -10,11 +10,11 @@
     "tokens": [
         {
             "chainId": 56,
-            "address": "0x68E569853c4299d0f25EB99282E1663f1A3ff906",
-            "symbol": "PEPEN",
-            "name": "Pepe Ninja",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pepebinja/pepeninja/main/assets/pepe-500.png"
+            "address": "0xdcc4C24CfC2df6970b6B7DE62b929C4189E25599",
+            "symbol": "ABN",
+            "name": "Antofy",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/antofy/antofy/main/assets/antofy-500.png"
         },
       
         {
