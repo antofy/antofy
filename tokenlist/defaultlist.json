@@ -1,20 +1,20 @@
 {
-    "name": "Pepe Ninja Token List",
+    "name": "Antofy Token List",
     "keywords": [
-        "pepen",
-        "pepe",
+        "antofy",
+        "abn",
       "arbitrum"
     ],
     "timestamp": "2022-09-20T00:00:00+00:00",
-    "logoURI": "https://raw.githubusercontent.com/pepebinja/pepeninja/main/assets/pepe-500.png",
+    "logoURI": "https://raw.githubusercontent.com/antofy/antofy/main/assets/antofy-500.png",
     "tokens": [
         {
             "chainId": 56,
-            "address": "‍ 0x8C93002aF4169B91115ad185BaAEf36014c6CDDC",
-            "symbol": "PEPEN",
-            "name": "PEPE Ninja",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pepebinja/pepeninja/main/assets/pepe-500.png"
+            "address": "‍ 0xdcc4C24CfC2df6970b6B7DE62b929C4189E25599",
+            "symbol": "ABN",
+            "name": "Antofy",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/antofy/antofy/main/assets/antofy-500.png"
         },
         {
             "chainId": 56,
