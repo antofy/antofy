@@ -1,12 +1,12 @@
 {
-    "name": "Pepe Ninja Token List",
+    "name": "Antofy Token List",
     "keywords": [
-        "pepen",
-        "pepe",
+        "antofy",
+        "abn",
         "binance"
     ],
     "timestamp": "2022-09-20T00:00:00+00:00",
-    "logoURI": "https://raw.githubusercontent.com/pepebinja/pepeninja/main/assets/pepe-500.png",
+    "logoURI": "https://raw.githubusercontent.com/antofy/antofy/main/assets/antofy-500.png",
     "tokens": [
         {
             "chainId": 56,
